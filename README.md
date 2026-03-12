@@ -1,14 +1,53 @@
 <h1 align="center">Hi 👋 I'm Tejas Ahire</h1>
-<h3 align="center">MERN Stack Developer | Full Stack Developer</h3>
+<h3 align="center">MERN Stack Developer | Full Stack JavaScript Developer</h3>
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=MERN+Stack+Developer;React+Node+MongoDB;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1200&color=0E75B6&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;React+Node+MongoDB+Developer;Building+Modern+Web+Applications" />
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+- 💻 MERN Stack Developer  
+- 🚀 Passionate about building scalable web applications  
+- 🌱 Currently learning advanced backend architecture  
+- ⚡ Love solving real-world coding problems  
+
+---
+
+### 🚀 Tech Stack
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=900&lines=Hi+I'm+Tejas+Ahire;MERN+Stack+Developer;Full+Stack+Developer;Building+Modern+Web+Applications" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,html,css,js,git,github,vscode" />
 </p>
+
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,html,css,js&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=TejasAhire07&show_icons=true&theme=tokyonight" />
 </p>
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284126-0f0b8f51-98d0-4d2e-b8fd-4fa6d2e4d0e7.gif" width="100%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasAhire07&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/TejasAhire07/TejasAhire07/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🔗 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tejasahire07">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
