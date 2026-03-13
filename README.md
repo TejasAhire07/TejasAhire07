@@ -36,12 +36,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/TejasAhire07/TejasAhire07/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ### 🔗 Connect With Me
