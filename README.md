@@ -27,29 +27,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=TejasAhire07&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=TejasAhire07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasAhire07&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasAhire07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🌐 Connect With Me
 
 <p align="center">
 
 <a href="mailto:ahiretejas071@gmail.com">
-<img src="https://img.shields.io/badge/Email-ahiretejas071%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Email Me-1F2937?style=for-the-badge&logo=gmail&logoColor=EA4335" />
 </a>
 
 <a href="https://wa.me/918421575466">
-<img src="https://img.shields.io/badge/WhatsApp-8421575466-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WhatsApp Chat-1F2937?style=for-the-badge&logo=whatsapp&logoColor=25D366" />
 </a>
 
 <a href="https://www.linkedin.com/in/tejasahire07">
-<img src="https://img.shields.io/badge/LinkedIn-Tejas%20Ahire-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn Profile-1F2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
 </a>
 
 </p>
@@ -58,9 +58,10 @@
 
 ## ⚡ Fun Fact
 
-💡 I enjoy turning ideas into real-world web applications and continuously improving my development skills.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=I+love+building+cool+web+apps;Always+learning+new+technologies;Turning+ideas+into+real+products" />
+</p>
 
 ---
 
-⭐ **Feel free to check out my repositories and connect with me!**
-
+⭐ **Let’s connect and build something amazing together!**
